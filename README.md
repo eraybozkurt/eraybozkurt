@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eraybozkurt
-- 👀 I’m interested in e-commerce and business analysis,  fron-end technology 
+- 👀 I’m interested in e-commerce and business analysis,  front-end technology 
 - 🌱 I’m currently learning front-end
 
 <!---
